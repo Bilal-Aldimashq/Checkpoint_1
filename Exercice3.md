@@ -58,5 +58,5 @@ Il s'agit des données transportées. comprise entre 46 et 1500 octets
 ____
 ## Question 10
 **Pourquoi les classes IP sont remplacées par le CIDR**
-Le CIDR permet plus d'étendue d'adresse.
+Le CIDR permet plus d'étendue d'adresse en créant des sous-réseaux.
 ____
